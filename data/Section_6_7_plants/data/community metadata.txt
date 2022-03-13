@@ -1,0 +1,5 @@
+When using this data, please cite the original publication:
+Miller JED, Damschen EI, Ives AR (2018) Functional traits and community composition: a comparison among community-weighted means, weighted correlations, and multilevel models. Methods in Ecology and Evolution, online in advance of print. https://doi.org/10.1111/2041-210x.13119
+
+Additionally, please cite the Dryad data package:
+Miller JED, Damschen EI, Ives AR (2018) Data from: Functional traits and community composition: a comparison among community-weighted means, weighted correlations, and multilevel models. Dryad Digital Repository. https://doi.org/10.5061/dryad.7gj0s3b 
