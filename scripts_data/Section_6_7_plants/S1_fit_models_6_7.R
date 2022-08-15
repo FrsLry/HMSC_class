@@ -18,8 +18,8 @@ getwd()
 # setwd(wd)
 
 localDir = getwd()
-data.directory = file.path(localDir, "data")
-model.directory = file.path(localDir, "models")
+data.directory = file.path(localDir, "scripts_data/Section_6_7_plants/data/")
+model.directory = file.path(localDir, "scripts_data/Section_6_7_plants/models/")
 
 # We load the Hmsc package, and set the random seed, so that all
 # results from this script are reproducible.
